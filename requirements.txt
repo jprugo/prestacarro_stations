@@ -1,0 +1,6 @@
+requests
+schedule
+fastapi
+uvicorn
+pyserial
+apscheduler
